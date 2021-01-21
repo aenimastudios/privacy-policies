@@ -1,4 +1,4 @@
-**Privacy Policy**
+# Privacy Policy
 
 Aenima Studios built the Evil Devil Boom app as an Ad Supported app. This SERVICE is provided by Aenima Studios at no cost and is intended for use as is.
 
